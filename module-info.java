@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author nikolaiperera
- *
- */
-module ProductService {
-}
